@@ -1,5 +1,7 @@
 # fabr
 
+This is a collection of functions and tools I have developed which improve my `R` toolbox. Majority of functions will be statisticial and data science based.
+
 ## Current version - NOT FOR INSTALL
 
 ### Install
